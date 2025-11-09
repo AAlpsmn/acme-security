@@ -1,0 +1,1 @@
+video çekebilme şansım olmadı üzgünüm. 
