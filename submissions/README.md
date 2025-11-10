@@ -9,7 +9,7 @@
 
 **Required Sections:**
 
-#### Section 1: Incident Analysis (2-3 pages)
+#### Section 1: Incident Analysis (2-3 pages)b
 - Timeline reconstruction (UTC normalized)
 - Attack vector identification
 - Attack classification (MITRE ATT&CK, OWASP)
